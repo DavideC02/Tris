@@ -1,2 +1,2 @@
 # Tris
-Videogioco Tris realizzato in C++
+Videogioco realizzato in C++
